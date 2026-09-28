@@ -12,7 +12,7 @@ EJECUCIÓN DEL PROYECTO:
 2. Esperar que el IDE cargue todos los archivos.
 3. Abrir el archivo Main.java.
 4. Ejecutar el proyecto presionando el botón Run (▶).
-5. Revisar la salida en la consola.
+5. Revisar la salida en la consola..
  
 FUNCIONALIDADES IMPLEMENTADAS:
  
